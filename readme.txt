@@ -1,4 +1,4 @@
-=== FrontPage Title Meta Description ===
+=== Wordpress SEO plugin: Front page title & meta description ===
 
 
 Contributors: AntonHoelstad
@@ -28,10 +28,11 @@ Stable tag: 1.0
 
 
 
-Easily add a title and meta description to your Wordpress blogs frontpage. 
+You already know the importance of SEO, and you are looking for more traffic to your website.  The title of your front page is the most important and influential SEO factor to getter better rankings in Google SERP.  With this plugin you get the opportunity to add your own content in the title-tag and meta description – quick and easy.
 
-
-Title uses the title-tag, and the meta description uses the meta-name-description-tag. 
+And even though the meta description doesn’t have any direct influence on rankings and/or search engine optimization, it has an indirect influence in regards to click through rate. The click through rate (or CTR) is a factor that Google uses in their algorithm when they decide where websites are positioned in SERP.
+ 
+The only thing you need to do is to download the plugin from this page and upload it to your blog, or add and install it directly from the plugin directory in your admin backend. 
 
 
 
