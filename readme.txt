@@ -31,7 +31,7 @@ Stable tag: 1.0
 Easily add a title and meta description to your Wordpress blogs frontpage. 
 
 
-Title uses the "<title>"-tag, and the meta description uses the "<meta name="description" content="" />"-tag. 
+Title uses the title-tag, and the meta description uses the meta-name-description-tag. 
 
 
 
