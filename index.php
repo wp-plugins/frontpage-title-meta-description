@@ -2,7 +2,7 @@
 /*
 Plugin Name: FrontPage Title Meta Description
 Plugin URI: http://antonhoelstad.dk
-Description: This plugin changes frontpage title and meta description easily from the admin backend
+Description: Create your own unique title and meta description for the front page of your Wordpress blog with this SEO plugin.
 Version: 1.0
 Author: AntonAKH
 Author URI: http://antonhoelstad.dk
